@@ -1,45 +1,51 @@
 Date,Buy/Sell,Investment Type,Ticker,Name,Category,Amount,Share price
-15/4/21,B,Longterm Hold,BYD,Boyd Gaming Corp.,Online Gambling,20,65
-10/4/21,B,,RDFN,Redfin Corp,US Real Estate,20,67.16
-10/4/21,B,Longterm Hold,EDIT,Editas Medicine Inc,Gene Therapy,20,40.21
-7/4/21,B,Longterm Hold,DIS,Walt Disney Co (The),Entertainment,20,190.14
-7/4/21,B,Longterm Hold,AAPL,Apple Inc,Technology,20,126.52
-1/4/21,B,Longterm Hold,SPHB ,Invesco S&P 500 High Beta ETF,ETF,20,69.95
-1/4/21,B,Longterm Hold,MSFT,Microsoft Corporation,Technology,20,238.29
-27/3/21,B,15%,PLTR,Palantir Technologies Inc,Technology,20,22.43
-27/3/21,B,Longterm Hold,PENN,"Penn National Gaming, Inc.",Online Gambling,20,105.23
-27/3/21,B,Longterm Hold,CRSP,CRISPR Therapeutics AG,Gene Therapy,10,109.68
-19/3/21,B,15%,RACE,Ferrari N.V.,Automotive,10,195
-19/3/21,B,Longterm Hold,CRSP,CRISPR Therapeutics AG,Gene Therapy,20,126.79
-19/3/21,B,Longterm Hold,PENN,"Penn National Gaming, Inc.",Online Gambling,20,121.88
-16/3/21,B,15%,PLTR,Palantir Technologies Inc,Technology,10,26.87
-16/3/21,S,Meme Stock,GME,Gamestop Corporation,Retail,5.17,246.45
-15/3/21,S,15%,IBM,International Business Machines Corp.,Technology,4.93,128.11
-15/3/21,B,Longterm Hold,DOCU,DocuSign Inc,Technology,10,211.23
-11/3/21,B,Dividend,WMT,Walmart Inc,Retail,10,132
-11/3/21,S,Meme Stock,BB,Blackberry Ltd,Technology,5.56,10.37
-11/3/21,S,Meme Stock,GME,Gamestop Corporation,Retail,280,280
-10/3/21,S,Meme Stock,MAC,Macerich Co.,US Real Estate,6.76,13.78
-10/3/21,S,Meme Stock,BBBY,"Bed, Bath & Beyond Inc.",Retail,6.36,29.93
-10/3/21,S,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,8.19,10.34
-10/3/21,S,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,20.67,10.34
-8/3/21,B,Longterm Hold,HD,"Home Depot, Inc.",Retail,30,253.74
-8/3/21,B,Longterm Hold,TSLA,Tesla,Automotive,30,594.82
-5/2/21,B,Meme Stock,GME,Gamestop Corporation,Retail,16,57.42
-4/2/21,B,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,17.88,8.9
-3/2/21,S,15%,,AMP Capital Global Shares Index Fund,Index Fund,5.35,1.258
-3/2/21,B,Meme Stock,GME,Gamestop Corporation,Retail,40,97.09
-3/2/21,B,Meme Stock,GME,Gamestop Corporation,Retail,40,244.92
-2/2/21,S,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,9.46,14.6
-2/2/21,S,15%,NLOK,NortonLifeLock Inc,Technology,22.57,21.38
-2/2/21,S,15%,EA,"Electronic Arts, Inc.",Entertainment,22.6,145.05
-2/2/21,S,15%,INTL,Intel Corp.,Technology,9.75,56.2
-2/2/21,S,15%,VTI,Vanguard Total Stock Market Index Fund,Index Fund,22.81,195.34
-2/2/21,S,15%,CRM,Salesforce.Com Inc,Technology,9.79,225.55
-2/2/21,S,15%,MCD,McDonalds Corp,Entertainment,9.98,208.3
-1/2/21,B,Meme Stock,GME,Gamestop Corporation,Retail,40,311.11
-28/1/21,B,Meme Stock,BB,Blackberry Ltd,Technology,10,18.56
-28/1/21,B,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,10,14.89
-28/1/21,B,Meme Stock,GME,Gamestop Corporation,Retail,10,229.46
-28/1/21,B,Meme Stock,BBBY,"Bed, Bath & Beyond Inc.",Retail,10,46.75
-28/1/21,B,Meme Stock,MAC,Macerich Co.,US Real Estate,10,20.29
+6/5/21,B,15%,SHOP,Shopify Inc,Technology,20,1113, USD
+6/5/21,B,15%,SPOT,Spotify Technology S.A.,Technology,30,236.56,USD
+6/5/21,B,15%,PINS,Pinterest Inc,Technology,40,61, USD
+5/5/21,B,Longterm Hold,EDIT,Editas Medicine Inc,Gene Therapy,20,34.19, USD
+22/4/21,B,Longterm Hold,PENN, Penn National Gaming Inc,Online Gambling,20,92.47, USD
+22/4/21,B,Longterm Hold, KFL, Kingfish, Food, 20, 1.92, NZD
+15/4/21,B,Longterm Hold,BYD,Boyd Gaming Corp.,Online Gambling,20,65, USD
+10/4/21,B,,RDFN,Redfin Corp,US Real Estate,20,67.16, USD
+10/4/21,B,Longterm Hold,EDIT,Editas Medicine Inc,Gene Therapy,20,40.21, USD
+7/4/21,B,Longterm Hold,DIS,Walt Disney Co (The),Entertainment,20,190.14, USD
+7/4/21,B,Longterm Hold,AAPL,Apple Inc,Technology,20,126.52, USD
+1/4/21,B,Longterm Hold,SPHB ,Invesco S&P 500 High Beta ETF,ETF,20,69.95, USD
+1/4/21,B,Longterm Hold,MSFT,Microsoft Corporation,Technology,20,238.29, USD
+27/3/21,B,15%,PLTR,Palantir Technologies Inc,Technology,20,22.43, USD
+27/3/21,B,Longterm Hold,PENN,"Penn National Gaming Inc.",Online Gambling,20,105.23, USD
+27/3/21,B,Longterm Hold,CRSP,CRISPR Therapeutics AG,Gene Therapy,10,109.68, USD
+19/3/21,B,15%,RACE,Ferrari N.V.,Automotive,10,195, USD
+19/3/21,B,Longterm Hold,CRSP,CRISPR Therapeutics AG,Gene Therapy,20,126.79, USD
+19/3/21,B,Longterm Hold,PENN,"Penn National Gaming Inc.",Online Gambling,20,121.88, USD
+16/3/21,B,15%,PLTR,Palantir Technologies Inc,Technology,10,26.87,USD
+16/3/21,S,Meme Stock,GME,Gamestop Corporation,Retail,5.17,246.45,USD
+15/3/21,S,15%,IBM,International Business Machines Corp.,Technology,4.93,128.11, USD
+15/3/21,B,Longterm Hold,DOCU,DocuSign Inc,Technology,10,211.23,USD
+11/3/21,B,Dividend,WMT,Walmart Inc,Retail,10,132,USD
+11/3/21,S,Meme Stock,BB,Blackberry Ltd,Technology,5.56,10.37,USD
+11/3/21,S,Meme Stock,GME,Gamestop Corporation,Retail,280,280,USD
+10/3/21,S,Meme Stock,MAC,Macerich Co.,US Real Estate,6.76,13.78,USD
+10/3/21,S,Meme Stock,BBBY,"Bed Bath & Beyond Inc.",Retail,6.36,29.93,USD
+10/3/21,S,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,8.19,10.34, USD
+10/3/21,S,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,20.67,10.34, USD
+8/3/21,B,Longterm Hold,HD,"Home Depot Inc.",Retail,30,253.74, USD
+8/3/21,B,Longterm Hold,TSLA,Tesla,Automotive,30,594.82, USD
+5/2/21,B,Meme Stock,GME,Gamestop Corporation,Retail,16,57.42, USD
+4/2/21,B,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,17.88,8.9, USD
+3/2/21,S,15%,,AMP Capital Global Shares Index Fund,Index Fund,5.35,1.258, NZD
+3/2/21,B,Meme Stock,GME,Gamestop Corporation,Retail,40,97.09, USD
+3/2/21,B,Meme Stock,GME,Gamestop Corporation,Retail,40,244.92, USD
+2/2/21,S,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,9.46,14.6,USD
+2/2/21,S,15%,NLOK,NortonLifeLock Inc,Technology,22.57,21.38,USD
+2/2/21,S,15%,EA,"Electronic Arts Inc.",Entertainment,22.6,145.05,USD
+2/2/21,S,15%,INTL,Intel Corp.,Technology,9.75,56.2,USD
+2/2/21,S,15%,VTI,Vanguard Total Stock Market Index Fund,Index Fund,22.81,195.34,USD
+2/2/21,S,15%,CRM,Salesforce.Com Inc,Technology,9.79,225.55,USD
+2/2/21,S,15%,MCD,McDonalds Corp,Entertainment,9.98,208.3,USD
+1/2/21,B,Meme Stock,GME,Gamestop Corporation,Retail,40,311.11,USD
+28/1/21,B,Meme Stock,BB,Blackberry Ltd,Technology,10,18.56,USD
+28/1/21,B,Meme Stock,AMC,AMC Entertainment Holdings Inc,Entertainment,10,14.89,USD
+28/1/21,B,Meme Stock,GME,Gamestop Corporation,Retail,10,229.46,USD
+28/1/21,B,Meme Stock,BBBY,"Bed Bath & Beyond Inc.",Retail,10,46.75,USD
+28/1/21,B,Meme Stock,MAC,Macerich Co.,US Real Estate,10,20.29,USD
