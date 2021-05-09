@@ -61,7 +61,7 @@ export default class CurrentShares extends React.Component {
         }else{
           this.createNewShare(shareInfo);
         }
-
+        this.setState({sharesArray: (this.tempSharesArray)});
       }else{
         console.log("Share isn't valid, please review the csv file:");
         console.log("row :" + row +" (0 indexed)");
@@ -71,6 +71,7 @@ export default class CurrentShares extends React.Component {
       console.log(err);
     }
   }
+  tempSharesArray = [];
   createNewShare(shareInfo){
     let share = {};
     share.shareName = shareInfo[4];
@@ -92,7 +93,7 @@ export default class CurrentShares extends React.Component {
     transaction.amount = shareInfo[6];
     transaction.PL = 0;
     share.transactions.push(transaction);
-    this.state.sharesArray.push(share);
+    this.tempSharesArray.push(share);
   }
   createTimestamp(dateString){
     dateString = dateString.split("/");

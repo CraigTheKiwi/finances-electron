@@ -11,7 +11,7 @@ export default class ShareData extends React.Component {
   }
   render(){
     return(
-        <div>
+        <div className="sharesParent">
         {this.props.sharesArray.map((item) => (
             <SingleShare shareItem={item} />
         ))}
