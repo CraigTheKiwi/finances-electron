@@ -6,7 +6,10 @@ export default class CurrentShares extends React.Component {
 
   constructor(props){
     super(props);
-    this.state = {sharesArray: []};
+    this.state = {
+      sharesArray: [],
+      shareCover: ""
+    };
   }
   componentDidMount(){
     this.BuildShareData();
@@ -189,14 +192,12 @@ export default class CurrentShares extends React.Component {
     const csv = await decoder.decode(result.value);
     return csv;
   }
-
   render(){
+
     return (
       <>
-        <div> ...loading your data ... </div>
-        <div> ... be patient ... </div>
-        <br />
-        <ShareData sharesArray = {this.state.sharesArray} />
+        <div className="shareCoverTarget"></div>
+        <ShareData sharesArray = {this.state.sharesArray} shareCoverr={this.state.shareCover} />
       </>
     );
   }

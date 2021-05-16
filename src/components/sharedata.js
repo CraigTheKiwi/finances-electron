@@ -6,14 +6,11 @@ export default class ShareData extends React.Component {
   constructor(props){
     super(props);
   }
-  componentDidMount(){
-    console.log("loaded");
-  }
   render(){
     return(
         <div className="sharesParent">
         {this.props.sharesArray.map((item) => (
-            <SingleShare shareItem={item} />
+          <SingleShare shareItem={item} shareCover={this.props.shareCover}/>
         ))}
       </div>
     );
